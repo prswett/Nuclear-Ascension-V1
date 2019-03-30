@@ -1,0 +1,18 @@
+[
+    {
+        "id": 0,
+        "name": "Upgraded Pistol Barrel",
+        "description": "Adds an extra bullet to double bullet (making it triple bullet\nIncreases the damage gain rate for distance bullet",
+        "type": 1,
+        "skillid": 0,
+        "relicid": 0
+    },
+    {
+        "id": 1,
+        "name": 0,
+        "description": "Fire a bullet that gains damage the farther it flies",
+        "type": 0,
+        "skillid": 0,
+        "relicid": 0
+    }
+]

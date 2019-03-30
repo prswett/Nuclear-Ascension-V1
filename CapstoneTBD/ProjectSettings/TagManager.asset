@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Relic
+  - Ground
+  - Offense
+  - Defense
+  - npc
+  - exitVehicle
+  - Enemy
+  - Spawn
+  - Despawner
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - Player
+  - Ability
+  - EnemyCollider
+  - Interactables
+  - Relic
+  - NonGroundCollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 3515419667
+    locked: 0
+  - name: Pins
+    uniqueID: 166716419
+    locked: 0
+  - name: Character
+    uniqueID: 3470231511
+    locked: 0
+  - name: Ground
+    uniqueID: 139130509
+    locked: 0
+  - name: Enemy
+    uniqueID: 3390599173
+    locked: 0
+  - name: Ability
+    uniqueID: 1052874549
+    locked: 0
+  - name: Player
+    uniqueID: 3676954051
+    locked: 0
